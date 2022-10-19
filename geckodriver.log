@@ -400,3 +400,18 @@ DevTools listening on ws://127.0.0.1:58366/devtools/browser/b382f2d2-5d1b-4aed-a
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 1666109357179	geckodriver	INFO	Listening on 127.0.0.1:60422
 1666109360239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MATEUS~1\\AppData\\Local\\Temp\\rust_mozprofileBNeaba"
+1666109380850	geckodriver	INFO	Listening on 127.0.0.1:60485
+1666109383945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60486" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MATEUS~1\\AppData\\Local\\Temp\\rust_mozprofilexPlvBI"
+1666109384367	Marionette	INFO	Marionette enabled
+1666109384373	Marionette	INFO	Listening on port 60496
+Read port: 60496
+WebDriver BiDi listening on ws://127.0.0.1:60486
+1666109384596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MATEUS~1\\AppData\\Local\\Temp\\rust_mozprofilexPlvBI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60486/devtools/browser/ba323dbf-f5d6-42d9-96b5-5483c7808909
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i5dD4/yA/l/en_US/muWRGSuRbGu.js?_nc_x=Ij3Wp8lg5Kz, line 1797: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i5dD4/yA/l/en_US/muWRGSuRbGu.js?_nc_x=Ij3Wp8lg5Kz, line 1797: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i5dD4/yA/l/en_US/muWRGSuRbGu.js?_nc_x=Ij3Wp8lg5Kz, line 1797: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yH/l/en_US/Y35Uq-odecn.js?_nc_x=Ij3Wp8lg5Kz, line 37: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.

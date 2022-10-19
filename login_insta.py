@@ -10,6 +10,7 @@ class playwright:
             page = browser.new_page()
             page.goto("https://www.instagram.com")
             page.locator('//*[@id="loginForm"]/div/div[1]/div/label/input').click()
+
             page.locator('//*[@id="loginForm"]/div/div[1]/div/label/input').fill(meuNome)
             sleep(4)
             page.locator('//*[@id="loginForm"]/div/div[2]/div/label/input').click()
